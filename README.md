@@ -1,9 +1,7 @@
 # hydros_ws
 Installation
 
-Author: Xavi Vicent (xvicentnavarro@lssu.edu) (xvicentnavar2024@fau.edu)
-
-Author: Caleb Wilson (cwilson15@lssu.edu) (CALEBWILSON@fau.edu)
+Author: Ryan Houck
 
 System Built on:
  - Jetson Tx2
@@ -11,14 +9,9 @@ System Built on:
  - Needs ~ 2.5 GB Memory for use ~ about 10 GB storage  
 
 INCLUDES: 
-- VRX 2022  (NOTE: these will need to be installed sperately)
-```
-https://github.com/osrf/vrx.git
-```
-
 ## Update repository with master
 ```
-cd LowLevel_Control/
+cd hydros_ws/
 ```
 Make sure you are on the master branch with the following:
 ```
@@ -42,7 +35,7 @@ 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
 cd ~
 ```
 ```
-git clone https://github.com/lssuamore/LowLevel_Control.git
+git clone https://github.com/lssuamore/hydros_ws.git
 ```
 username: "your username"   
 
@@ -51,7 +44,7 @@ password:
 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
 ```
 ```
-cd LowLevel_Control/
+cd hydros_ws/
 ```
 ```
 git submodule init
