@@ -23,7 +23,7 @@ git pull
 ```
 username:
 ```
-<your name>
+lssuamore
 ```
 password: (this is a token you may have to create one)
 ```
