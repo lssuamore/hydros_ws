@@ -37,8 +37,10 @@ cd ~
 ```
 git clone https://github.com/lssuamore/hydros_ws.git
 ```
-username: "your username"   
-
+username: 
+```
+lssuamore
+```
 password:
 ```
 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
