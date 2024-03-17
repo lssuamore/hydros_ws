@@ -84,9 +84,12 @@ git commit -m "Your message here"
 ```
 The push command sends your code to the github servers. origin just indicates that it is going where we got it from, no real need to work with this in what we develop with. Last you have to make sure you choose your branch to send it too. Again in this case the branch is your name, but if you ever forget what it is called, you can always use the git status or git branch command.
 ```
-git push origin <your name>
+git push origin main
 ```
-username: "your username"   
+username: 
+```
+lssuamore
+```
 
 password:
 ```
