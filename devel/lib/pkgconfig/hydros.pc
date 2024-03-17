@@ -1,0 +1,8 @@
+prefix=/home/rhouck/hydros_ws/devel
+
+Name: hydros
+Description: Description of hydros
+Version: 0.0.0
+Cflags: -I/home/rhouck/hydros_ws/devel/include
+Libs: -L${prefix}/lib 
+Requires: 

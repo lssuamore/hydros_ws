@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+
+<launch>
+  
+  <!-- Teensy launch -->
+  <!--node pkg="rosserial_python" type="serial_node.py" name="Teensy" args="/dev/ttyACM1">
+  </node-->
+  
+  <!-- Launches codes -->
+  <node pkg="hydros" type="hydros21_recording" name="hydros21_recording" output="screen">
+  </node>
+  
+</launch>
