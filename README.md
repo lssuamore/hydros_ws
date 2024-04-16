@@ -27,7 +27,7 @@ lssuamore
 ```
 password: (this is a token you may have to create one)
 ```
-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
+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
 ```
 ## Installation Process:
 
@@ -43,7 +43,7 @@ lssuamore
 ```
 password:
 ```
-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
+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
 ```
 ```
 cd hydros_ws/
@@ -95,7 +95,7 @@ lssuamore
 
 password:
 ```
-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
+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
 ```
 
 Pull requests:
